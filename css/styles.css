@@ -149,7 +149,7 @@ width: 100%;
 min-height: 100vh;
 background: url(../img/bg-4.jpg) no-repeat top center;
 position: relative;
-background-size:auto;
+background-size:cover;
 overflow: hidden;
 display: flex;
 align-items: center;
