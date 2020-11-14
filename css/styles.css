@@ -118,7 +118,7 @@ transition: transform .5s;
 }
 .nav-link{
   display: block;
-  color: #fff;
+  color: black;
   text-transform: uppercase;
   font-size: 1.2rem;
   letter-spacing: 2px;
@@ -178,13 +178,13 @@ z-index: -1;
 }
 .title{
 font-size: 6rem;
-color: #fff;
+color: black;
 margin-bottom: 1rem;
 font-family: "Rufina",serif;
 }
 .paragraph{
     font-size: 2.5rem;
-/*color: #929fc5;*/
+color: dodgerblue;
 margin-bottom: 1.5rem;
 }
 .cta input{
@@ -211,7 +211,7 @@ margin-bottom: 1.5rem;
 }
 
 .social-link{
-  color: #929fc5;
+  color: dodgerblue;
   width: 3rem;
   height: 3rem;
   border: 1px solid #929fc5;
